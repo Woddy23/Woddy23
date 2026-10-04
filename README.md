@@ -4,12 +4,11 @@ I'm a Computer Engineering graduate from Portugal, building practical software w
 
 I enjoy turning real problems into working products, especially full-stack applications, business tools and workflow automation.
 
-* 🔭 I’m currently working on **Stamply**, a multi-business loyalty platform
 * 🌱 I’m currently improving my **backend engineering, PostgreSQL, APIs, testing and software architecture**
 * 🛠️ I’ve built projects involving authentication, admin systems, relational data and browser automation
-* ⚡ One of my projects, **[ShopKit AI](https://github.com/Woddy23/shopkit-product-builder)**, reduced a repetitive product-entry workflow from roughly **15 minutes to 45 seconds**
+* ⚡ One of my projects, **[ShopKit Product Builder](https://github.com/Woddy23/ShopKit-Product-Builder)**, creates editable product drafts inside Shopkit, applies reviewed fields, and leaves final saving manual
 * 🤝 I’m interested in contributing to useful products and learning from experienced engineering teams
-* 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/rafael-lopes-it/)** or through my **[portfolio](https://rafadesigns.vercel.app/developer)**
+* 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/rafael-lopes-it/)** or through my **[portfolio](https://www.rafadesigns.dev/developer)**
 
 ### Tech I use
 
