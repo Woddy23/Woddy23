@@ -4,7 +4,6 @@
 
 I build browser integrations and web applications that turn operational problems into usable software.
 
-<<<<<<< HEAD
 Computer Engineering graduate · Lisbon, Portugal
 =======
 * 🌱 I’m currently improving my **backend engineering, PostgreSQL, APIs, testing and software architecture**
