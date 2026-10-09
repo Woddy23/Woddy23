@@ -46,7 +46,7 @@ Shipped work with private implementations; public interfaces linked where availa
 
 ## Professional context
 
-**Acubic** — Project-based Software Engineering Contributor; product and source remain private.
+**[Acubic](https://acubic.ai/)** — Project-based Software Engineering Contributor; product and source remain private.
 
 **[RafaDesigns](https://www.rafadesigns.dev)** — Freelance web development and ongoing delivery for small businesses.
 
